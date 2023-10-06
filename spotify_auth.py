@@ -99,9 +99,7 @@ class SpotifyConfig:
         set_key(".env", "SPOTIFY_REFRESH_TOKEN", refresh_token)
         set_key(".env", "SPOTIFY_TOKEN_EXPIRATION", str(expiration_time.timestamp()))
 
-        print("Tokens generated and saved to .env file.")
-        print("Access Token:", access_token)
-        print("Refresh Token:", refresh_token)
+        print("Access and Refresh Tokens generated and saved to .env file.")
         print("Token will expire at:", expiration_time.strftime("%Y-%m-%d %H:%M:%S"))
 
 def main():
