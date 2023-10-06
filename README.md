@@ -114,7 +114,7 @@ Before using this script, ensure that you have the following prerequisites:
 
 ## Contributing
 
-Contributions to this project are welcome! Feel free to submit issues or pull requests on the GitHub repository.
+Contributions to this project are welcome! Feel free to connect with me!
 
 ---
 
